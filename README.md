@@ -35,7 +35,6 @@ At the beginning, there is the same encoder which facilitates the calculation la
 - **Input**: One channel
 - **Output**: One channel
 
-![model_encoder_trained pth](https://github.com/user-attachments/assets/ecd29ea1-85a2-4e34-9104-7959785efa5d)
 
 
 ### Level 2
@@ -72,3 +71,31 @@ After running each script, the trained models are saved automatically.
 After training and saving all models, use the following script to check all saved models and run them on the images in the `test` folder.
 - **File name**: `Running models with learned weights`
 - **Command**:
+
+- ## Model Visualizations
+
+### Level 1 Encoder
+
+![Level 1 Encoder](https://github.com/user-attachments/assets/27d8eb47-2194-481b-a2ba-542b33bbe294)
+
+### Level 2 Encoders
+
+![Model_A pth](https://github.com/user-attachments/assets/7199d9b2-60de-47b4-b235-967b521aee8e)
+
+![Model_B pth](https://github.com/user-attachments/assets/d35aa197-8188-473c-955c-9ccee686d602)
+
+![Model_C pth](https://github.com/user-attachments/assets/04804fff-53cb-4551-a065-53d72dccb092)
+
+![Model_D pth](https://github.com/user-attachments/assets/b37bcede-d557-4412-96d3-93a344aec632)
+
+### HSV Models
+![Model_Hue pth](https://github.com/user-attachments/assets/429fa855-4764-4927-aba5-021c0a85c763)
+
+![Model_Saturation pth](https://github.com/user-attachments/assets/ed15ecff-de8a-4b7c-a46a-33252f0b82a2)
+
+![Model_Value pth](https://github.com/user-attachments/assets/9bd82de8-1240-442e-a628-ff774eae7f65)
+
+
+
+
+
