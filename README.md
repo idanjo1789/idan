@@ -34,7 +34,9 @@ At the beginning, there is the same encoder which facilitates the calculation la
 - **File name**: `Building an auto encoder`
 - **Input**: One channel
 - **Output**: One channel
-![model_encoder_trained pth](https://github.com/user-attachments/assets/c08a4076-9c99-43ca-ae82-b123694cde49)
+
+![model_encoder_trained pth](https://github.com/user-attachments/assets/ecd29ea1-85a2-4e34-9104-7959785efa5d)
+
 
 ### Level 2
 I use the encoder from step 1 and build 4 models each of which recognizes the image. It should be noted that the encoders recognize the image in HSV color representation and not RGB.
