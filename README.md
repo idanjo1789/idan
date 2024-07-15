@@ -38,10 +38,10 @@ At the beginning, there is the same encoder which facilitates the calculation la
 ### Level 2
 I use the encoder from step 1 and build 4 models each of which recognizes the image. It should be noted that the encoders recognize the image in HSV color representation and not RGB.
 - **File names**: 
-  - `Model 1 encoder construction`
-  - `Model 2 encoder construction`
-  - `Model 3 encoder construction`
-  - `Model 4 encoder construction`
+  - `Model 1 decoder construction`
+  - `Model 2 decoder construction`
+  - `Model 3 decoder construction`
+  - `Model 4 decoder construction`
 - **Input**: Output from the encoder
 - **Output**: 3 channels in HSV
 
