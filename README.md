@@ -68,7 +68,7 @@ After running each script, the trained models are saved automatically.
 ## Running Models with Learned Weights
 After training and saving all models, use the following script to check all saved models and run them on the images in the `test` folder.
 - **File name**: [`Running models with learned weights.ipynb`](Running%20models%20with%20learned%20weights.ipynb)
-- **Command**: 
+
 
 ## Model Visualizations
 
